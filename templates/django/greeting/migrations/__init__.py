@@ -1,0 +1,1 @@
+# greeting/migrations/__init__.py
